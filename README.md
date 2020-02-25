@@ -1,2 +1,2 @@
 # Gmail-CLI-Python
-Gmail API CLI implemented with Python.
+Gmail CLI implemented with Python using the Gmail API.
